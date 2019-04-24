@@ -1,3 +1,4 @@
+#!/bin/sh
 ./clean.sh
 echo "**COMPILING LIBFT**"
 make -C libft/

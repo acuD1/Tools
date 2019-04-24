@@ -1,3 +1,4 @@
+#!/bin/sh
 rm *.o
 rm test_gnl
 rm test_gnl_leaks
